@@ -16,7 +16,7 @@
     "name": "Ant",
     "email": "Ant@users.noreply.github.com"
   },
-  "license": "MIT",
+  "license": "AGPL V3",
   "config": {
     "forge": {
       "packagerConfig": {},
